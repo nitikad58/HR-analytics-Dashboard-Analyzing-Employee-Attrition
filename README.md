@@ -7,9 +7,9 @@ An interactive Power BI dashboard analyzing employee attrition patterns, demogra
 This project was my hands-on journey into building a complete, professional Power BI dashboard from scratch. Following a tutorial framework, I transformed raw HR data into actionable insights, focusing on understanding the "why" behind employee turnover. The dashboard examines attrition patterns across departments, age groups, education levels, and job roles, providing a powerful tool for any HR department.
 
 ## 3. Tech Stack
-  <p>📊 Power BI Desktop: Used for data modeling, DAX, and visualization design.
-     🔧 Power Query: Employed for data cleaning, transforming, and handling data quality issues (null values, inconsistencies).
-     🧮 DAX: Created custom measures and calculated columns for metrics like Attrition Rate, Averages, and conditional logic.
+  <p>📊 Power BI Desktop: Used for data modeling, DAX, and visualization design.<br> 
+     🔧 Power Query: Employed for data cleaning, transforming, and handling data quality issues (null values, inconsistencies).<br> 
+     🧮 DAX: Created custom measures and calculated columns for metrics like Attrition Rate, Averages, and conditional logic.<br> 
      🎨 Data Visualization: Designed an intuitive and interactive report with cross-filtering and a cohesive theme.</p>
 
 ## 4. Data Source
