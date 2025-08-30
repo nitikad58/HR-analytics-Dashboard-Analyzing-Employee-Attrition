@@ -8,9 +8,9 @@ This project was my hands-on journey into building a complete, professional Powe
 
 ## 3. Tech Stack
   <p>📊 Power BI Desktop: Used for data modeling, DAX, and visualization design.
-   🔧 Power Query: Employed for data cleaning, transforming, and handling data quality issues (null values, inconsistencies).
-   🧮 DAX: Created custom measures and calculated columns for metrics like Attrition Rate, Averages, and conditional logic.
-   🎨 Data Visualization: Designed an intuitive and interactive report with cross-filtering and a cohesive theme.</p>
+     🔧 Power Query: Employed for data cleaning, transforming, and handling data quality issues (null values, inconsistencies).
+     🧮 DAX: Created custom measures and calculated columns for metrics like Attrition Rate, Averages, and conditional logic.
+     🎨 Data Visualization: Designed an intuitive and interactive report with cross-filtering and a cohesive theme.</p>
 
 ## 4. Data Source
 
@@ -85,7 +85,15 @@ What I learned:
  * Data Storytelling: Learned how to arrange visuals logically to guide the viewer to key insights.
  * Design Best Practices: Understood the importance of layout, color, and interactivity in report design.
 
-## 8. Acknowledgments:
+## 8. Screenshot Preview
+
+![Main Dashboard Preview](https://github.com/nitikad58/HR-analytics-Dashboard-Analyzing-Employee-Attrition/blob/main/HR%20Analytics%20screenshot%201-%20main%20dashboard.png)
+![Filtered Dashboard Preview: HR Department](https://github.com/nitikad58/HR-analytics-Dashboard-Analyzing-Employee-Attrition/blob/main/HR%20Analytics%20screenshot%202-%20Department%20filter(HR).png)
+![Filtered Dashboard Preview: R&D Department](https://github.com/nitikad58/HR-analytics-Dashboard-Analyzing-Employee-Attrition/blob/main/HR%20Analytics%20screenshot%203-%20Department%20filter(R%26D).png)
+![Filtered Dashboard Preview: Sales Department](https://github.com/nitikad58/HR-analytics-Dashboard-Analyzing-Employee-Attrition/blob/main/HR%20Analytics%20screenshot%204-%20Department%20filter(Sales).png)
+![Females in all Departments Dashboard Preview: ](https://github.com/nitikad58/HR-analytics-Dashboard-Analyzing-Employee-Attrition/blob/main/HR%20Analytics%20screenshot%205%20-%20All%20Departments%20(females%20only).png)
+
+## 9. Acknowledgments:
 This project was built following a comprehensive tutorial by Rishabh on YouTube. The tutorial provided the foundational dataset and a guide on core HR analytics concepts in Power BI.
 
 While the initial structure was guided, the deep dive into analysis, the final design customization, and the creation of this documentation are my own work. This project solidified my understanding of how to translate business questions into a functional data analysis tool.
