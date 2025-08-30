@@ -86,12 +86,20 @@ What I learned:
  * Design Best Practices: Understood the importance of layout, color, and interactivity in report design.
 
 ## 8. Screenshot Preview
-
+### 8.1 Main Dashboard Preview
 ![Main Dashboard Preview](https://github.com/nitikad58/HR-analytics-Dashboard-Analyzing-Employee-Attrition/blob/main/HR%20Analytics%20screenshot%201-%20main%20dashboard.png)
+
+### 8.2 Filtered Dashboard Preview: HR Department
 ![Filtered Dashboard Preview: HR Department](https://github.com/nitikad58/HR-analytics-Dashboard-Analyzing-Employee-Attrition/blob/main/HR%20Analytics%20screenshot%202-%20Department%20filter(HR).png)
+
+### 8.3 Filtered Dashboard Preview: R&D Department
 ![Filtered Dashboard Preview: R&D Department](https://github.com/nitikad58/HR-analytics-Dashboard-Analyzing-Employee-Attrition/blob/main/HR%20Analytics%20screenshot%203-%20Department%20filter(R%26D).png)
+
+### 8.4 Filtered Dashboard Preview: Sales Department
 ![Filtered Dashboard Preview: Sales Department](https://github.com/nitikad58/HR-analytics-Dashboard-Analyzing-Employee-Attrition/blob/main/HR%20Analytics%20screenshot%204-%20Department%20filter(Sales).png)
-![Females in all Departments Dashboard Preview: ](https://github.com/nitikad58/HR-analytics-Dashboard-Analyzing-Employee-Attrition/blob/main/HR%20Analytics%20screenshot%205%20-%20All%20Departments%20(females%20only).png)
+
+### 8.5 Females in all Departments Dashboard Preview
+![Females in all Departments Dashboard Preview](https://github.com/nitikad58/HR-analytics-Dashboard-Analyzing-Employee-Attrition/blob/main/HR%20Analytics%20screenshot%205%20-%20All%20Departments%20(females%20only).png)
 
 ## 9. Acknowledgments:
 This project was built following a comprehensive tutorial by Rishabh on YouTube. The tutorial provided the foundational dataset and a guide on core HR analytics concepts in Power BI.
